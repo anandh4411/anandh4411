@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anandh-s-90b3aa20b" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="anandh-s-90b3aa20b" height="30" width="40" /></a>
-<a href="https://instagram.com/anandh.arts" target="blank"><img align="center" src="https://i.pinimg.com/originals/9c/e6/6a/9ce66a7e1727003ea9351dd7a94ea121.gif" alt="anandh.arts" height="30" width="40" /></a>
+<a href="https://instagram.com/anandh.arts" target="blank"><img align="center" src="https://me.usr.sicilia.it/images/imgnews/insta-gif.gif" alt="anandh.arts" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
